@@ -1,0 +1,13 @@
+*.log
+*.png
+*.tex
+*.aux
+*.out
+*.synctex.gz 
+*.zip
+*.toc
+*.vscode/
+*.Rhistory
+*.xdv
+*.fls
+*.fdb_latexmk
